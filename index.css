@@ -1,0 +1,99 @@
+body{
+    margin:0;
+}
+.header{
+    background-color:#025996;
+    
+}
+.main{
+    background:#006cb5 url('https://res.nba.cn/static/styles/images/teambg/clippers-bg.jpg') center 0 / 100% auto no-repeat;
+    min-height: 100vh;
+    width: 100%;
+    min-width: 1000px;
+    padding: 1px 0 ;
+}
+.bottom{
+
+}
+.headerlayout{
+
+}
+.team-nav{
+    display: flex;
+    background-color: #006BB6;
+    width:100%;
+}
+.wrapclearfix{
+
+}
+.top{
+
+}
+.left{
+
+}
+.lubotu{
+
+}
+.news{
+
+}
+.right{
+
+}
+.score{
+
+}
+.teamdata{
+
+}
+.teamleading{
+
+}
+.ranking{
+
+}
+.teams{
+
+}
+.west{
+
+}
+.east{
+
+}
+.up{
+
+}
+.down{
+
+}
+.NBA-logo{
+    height:100%;       
+}
+.site-nav{
+    height:34px;
+}
+.w1000{
+    width: 400px;
+    margin:0 auto;
+}
+.w100{
+    margin:0 auto;
+}
+.item{
+    margin: 10px;
+}
+.shouye{
+    margin: 0px 10px 0px 0px;
+}
+.teambg{
+    background:url('https://res.nba.cn/static/styles/images/teamlogotit/clippers-logo.png') left top no-repeat;
+    height: 100px;
+    width: 340px;
+}
+.regular{
+    margin-left: 110px;
+    padding-top: 45px;
+    color: #fff;
+}
